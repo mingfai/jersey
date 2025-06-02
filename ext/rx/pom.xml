@@ -40,6 +40,7 @@
         <module>rx-client-guava</module>
         <module>rx-client-rxjava</module>
         <module>rx-client-rxjava2</module>
+        <module>rx-client-rxjava3</module>
     </modules>
 
     <dependencies>
